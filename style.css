@@ -33,6 +33,30 @@ body {
     to {
         background-position: 200% center;
     }
+    
+/* On screens that are 992px wide or less */
+@media screen and (max-width: 992px) {
+    .animate-charcter {
+      /* width: 50%; */
+      font-size: 75px;
+    }
+
+    /* iframe{
+        width: 60%;
+    } */
+  }
+  
+  /* On screens that are 600px wide or less */
+  @media screen and (max-width: 600px) {
+    .animate-charcter {
+      /* width: 100%; */
+      font-size: 50px;
+    }
+
+    /* iframe{
+        width: 40%;
+    } */
+  }
 }
 
 #iframe-chat {

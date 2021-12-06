@@ -51,11 +51,8 @@ body {
     }
     
     #iframe-chat {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 25px;
-    width: 80%;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 }
  

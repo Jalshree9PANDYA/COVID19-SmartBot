@@ -49,6 +49,14 @@ body {
     .animate-charcter {
         font-size: 30px;
     }
+    
+    #iframe-chat {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+    width: 80%;
+}
 }
  
 /* Media Query for low resolution  Tablets, Ipads */

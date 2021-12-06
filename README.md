@@ -2,7 +2,7 @@
 
 COVID19-SmartBot is a conversational AI tool to help people in answering information about what COVID19 is, its origin, what are the symptoms, ways to avoid it, etc.
 
-# Problem Statement/Opportunity
+# Problem Statement / Opportunity
 
 People are in great misconceptions and believing myths regarding COVID19. So, this COVID19-SmartBot is a fact machine for everybody. COVID19-SmartBot provides daily updates, and fast and reliable answers to your questions regarding COVID19 !
 
